@@ -2,9 +2,10 @@
 
 A simple and interactive Tic-Tac-Toe game built using **HTML**, **CSS**, and **JavaScript**. Play with a friend, track the wins, and enjoy the classic game in your browser!
 
-## 🖼️ Screenshot
+## 🖼️ Game Display
 
-![Tic-Tac-Toe-Game](./Game.png)
+<img src="./Game.png" alt="Tic-Tac-Toe Game" width="400"/>
+
 
 ## 🚀 Features
 
@@ -29,7 +30,7 @@ A simple and interactive Tic-Tac-Toe game built using **HTML**, **CSS**, and **J
 ├── index.html
 ├── style.css
 ├── app.js
-├── screenshot.png
+├── Game.png
 └── README.md
 ```
 
