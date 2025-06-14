@@ -43,6 +43,12 @@ h1 {
     color: #EFEFEF;
 }
 
+.box:hover {
+    opacity: 0.6;
+    cursor: pointer;
+    background-color: #718355;
+}
+
 .btn {
     display: flex;
     justify-content: center;
